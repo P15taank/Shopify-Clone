@@ -7,7 +7,6 @@
 - Tailwind CSS
 ## Screenshot
 ![Shopify  Clone](./Images/laptop1.png)
-
 ### Mobile Responsive
 ![Responsive](./Images/small.png)
 ## What I have learn in this project
