@@ -9,7 +9,7 @@
 ![Shopify  Clone](./Images/laptop1.png)
 
 ### Mobile Responsive
-![Responsive](./images/small.png)
+![Responsive](./Images/small.png)
 ## What I have learn in this project
 - How to use Tailwind classes
 - How to make a website responsive using tailwind css
