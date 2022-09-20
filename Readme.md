@@ -6,14 +6,14 @@
 - HTML
 - Tailwind CSS
 ## Screenshot
-![Shopify  Clone](./Images/Shopify-Clone%20-%20Google%20Chrome%202022-09-20%2012-27-44.mp4)
+![Shopify  Clone](./Images/laptop.png)
 
 ### Mobile Responsive
-![Responsive](./images/Shopify-Clone%20-%20Mobile.mp4)
+![Responsive](./images/mobile-black.png)
 ## What I have learn in this project
 - How to use Tailwind classes
-- How to make a website responsive using tailwind css
+- How to make a website using tailwind css
 ## Time Spent
 I spent 10 hours to complete this project
 ## Live Link
-Preview the project [Here]()
+Preview the project [Here](https://shopify-clone-twcss.netlify.app/)
