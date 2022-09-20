@@ -12,7 +12,7 @@
 ![Responsive](./images/Shopify-Clone%20-%20Mobile.mp4)
 ## What I have learn in this project
 - How to use Tailwind classes
-- How to make a website using tailwind css
+- How to make a website responsive using tailwind css
 ## Time Spent
 I spent 10 hours to complete this project
 ## Live Link
