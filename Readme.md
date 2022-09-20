@@ -6,13 +6,13 @@
 - HTML
 - Tailwind CSS
 ## Screenshot
-![Shopify  Clone](./Images/laptop.png)
+![Shopify  Clone](./Images/laptop1.png)
 
 ### Mobile Responsive
 ![Responsive](./images/mobile-black.png)
 ## What I have learn in this project
 - How to use Tailwind classes
-- How to make a website using tailwind css
+- How to make a website responsive using tailwind css
 ## Time Spent
 I spent 10 hours to complete this project
 ## Live Link
