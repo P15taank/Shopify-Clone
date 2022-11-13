@@ -1,3 +1,4 @@
+# Disclaimer: This is only for educational purpose.
 # Pratiksha Taank
 ![Badge](https://img.shields.io/badge/Responsive-Yes-green)
 ![Badge](https://img.shields.io/badge/Live-Yes-brightgreen)
