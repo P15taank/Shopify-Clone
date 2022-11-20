@@ -1,6 +1,6 @@
 # DISCLAIMER: THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT the official site of the company
-or brand identified on the page. The creator of this page is NOT affilliated with the company of brand in any way.
-This page is a personal project made in connection with an educational exercise.
+# or brand identified on the page. The creator of this page is NOT affilliated with the company of brand in any way.
+# This page is a personal project made in connection with an educational exercise.
 # Pratiksha Taank
 ![Badge](https://img.shields.io/badge/Responsive-Yes-green)
 ![Badge](https://img.shields.io/badge/Live-Yes-brightgreen)
